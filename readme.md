@@ -123,7 +123,7 @@ if __name__ == '__main__':
 ```
 
 ## Output :
-![image](https://github.com/SANTHAN-2006/ML-PROJECT/assets/80164014/409cc06d-cfac-40e7-8811-4e8c547add81)
+![image](https://github.com/SANTHAN-2006/ML-PROJECT/assets/80164014/12030051-262d-49e9-95ee-424104142f98)
 
 ## Conclusion :
 These steps ensure a structured and thorough approach to developing a weather prediction model, leveraging advanced machine learning techniques for accurate and reliable forecasts.
